@@ -17,4 +17,4 @@
 - ⚙️ **FOC motor control** (Farasha System) — BLDC control with SimpleFOC
 
 ### 📫 Contact
-[LinkedIn]((https://www.linkedin.com/in/elmehdi-haytom/)) · [Email](mailto:elmehdihaytom@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/elmehdi-haytom/) · [Email](mailto:elmehdihaytom@gmail.com)
